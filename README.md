@@ -19,6 +19,7 @@ Instead of fighting your AI when it writes bad, un-crawlable HTML, these skills 
 | **Accessibility** | `skills/seo-accessibility/` | ARIA roles, skip navigation, focus management |
 | **JavaScript SEO** | `skills/seo-javascript/` | SPA rendering, History API, soft 404s, Web Components, fingerprinting |
 | **Image & Video SEO** | `skills/seo-media/` | Image optimization, responsive images, VideoObject schema, media sitemaps |
+| **Ecommerce Operations** | `skills/seo-ecommerce/` | Product URLs, variant handling, pagination, facet crawl budget, Product schema |
 
 ## Quick Start
 

@@ -17,5 +17,6 @@ Read the respective `SKILL.md` under each of these topics:
 9. `skills/seo-accessibility/SKILL.md`: ARIA roles, skip navigation, and focus management.
 10. `skills/seo-javascript/SKILL.md`: SPA rendering, History API, soft 404s, content fingerprinting, and Web Components.
 11. `skills/seo-media/SKILL.md`: Image optimization, responsive images, video SEO, and media sitemaps.
+12. `skills/seo-ecommerce/SKILL.md`: URL structures, product variants, pagination, faceted nav, and Product schema.
 
 Always prioritize these rules when generating or modifying code that affects the frontend or SEO architecture of the application.
